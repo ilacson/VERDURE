@@ -1,4 +1,4 @@
-# TechFolio Hub
+# VENTURE APP
 * VENDURE App.
 
 #  APP ScreenRecord
@@ -22,16 +22,16 @@
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.jpg">  
+<img src="assets/image/screenshot/onboarding.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.jpg">  
+<img src="assets/image/screenshot/signup.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.jpg">  
+<img src="assets/image/screenshot/login.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tab1.jpg"> 
-<img src="assets/images/screenshot/tab2.jpg"> 
-<img src="assets/images/screenshot/tab3.jpg"> 
-<img src="assets/images/screenshot/tab4.jpg"> 
+<img src="assets/image/screenshot/tab1.jpg"> 
+<img src="assets/image/screenshot/tab2.jpg"> 
+<img src="assets/image/screenshot/tab3.jpg"> 
+<img src="assets/image/screenshot/tab4.jpg"> 
